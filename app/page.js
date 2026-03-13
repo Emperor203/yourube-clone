@@ -23,7 +23,7 @@ const CATEGORY_OPTIONS = [
 ];
 
 // Hide unwanted videos from recommendations/feed.
-const BLOCKED_TERMS = ["jelly roll", "thorns"];
+const BLOCKED_TERMS = ["jelly roll", "thorns", "bossman dlow", "motion party"];
 
 function formatViews(value) {
   const num = Number(value || 0);
